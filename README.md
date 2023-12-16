@@ -7,7 +7,7 @@
 
 - 🔭 I’m Worked on [Delhi by Cycle](https://delhibycycle-six.vercel.app/)
 
-- 🌱 I’m currently mastering **Backend**
+- 🌱 I’m currently looking for a **Job**
 
 - 💬 Ask me about **react, redux, javascript**
 
