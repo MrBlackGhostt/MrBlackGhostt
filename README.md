@@ -9,19 +9,13 @@
 
 - 🌱 I’m currently looking for a **Job**
 
-  ⚡ Excited and Open for Thrilling Freelancing Opportunities! ⚡
+- ⚡ Excited and Open for Thrilling Freelancing Opportunities! ⚡
 
 - 💬 Ask me about **FullStack and related Technologies**
 
 - 📫 How to reach me **hemantkumar4213@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hemant_x_bolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemant_x_bolt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrhemantkumarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrhemantkumarr/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20630673/mrblackghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20630673/mrblackghost" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mrblackghostt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrblackghostt/" height="30" width="40" /></a>
-</p>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
