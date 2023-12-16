@@ -1,15 +1,17 @@
 <h1 align="center">Hi , I'm Hemant Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack Developer with a keen interest in creating exceptional web experiences. My expertise lies in both frontend and backend technologies, and I thrive on crafting innovative solutions. Currently contributing my skills to [Delhi By Cycle](https://www.delhibycycle.com/), where we're revolutionizing travel experiences through cycling adventures.</h3>
+<h3 align="centre">I'm a passionate Full Stack Developer with a keen interest in creating exceptional web experiences. My expertise lies in both frontend and backend technologies, and I thrive on crafting innovative solutions. Currently contributing my skills to [Delhi By Cycle](https://www.delhibycycle.com/), where we're revolutionizing travel experiences through cycling adventures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblackghostt&label=Profile%20views&color=0e75b6&style=flat" alt="mrblackghostt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrblackghostt" alt="mrblackghostt" /></a> </p>
 
-- 🔭 I’m Worked on [Delhi by Cycle](https://delhibycycle-six.vercel.app/)
+- 🔭 I’m Working on [Delhi by Cycle](https://delhibycycle-six.vercel.app/)
 
 - 🌱 I’m currently looking for a **Job**
 
-- 💬 Ask me about **react, redux, javascript**
+  ⚡ Excited and Open for Thrilling Freelancing Opportunities! ⚡
+
+- 💬 Ask me about **FullStack and related Technologies**
 
 - 📫 How to reach me **hemantkumar4213@gmail.com**
 
@@ -89,7 +91,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=MrBlackGhostt&&style=flat-square)  
+
   
 
 <br/>  
@@ -97,5 +99,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
