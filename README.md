@@ -1,5 +1,7 @@
 <h1 align="center">Hi , I'm Hemant Kumar</h1>
-<h3 align="centre">I'm a passionate Full Stack Developer with a keen interest in creating exceptional web experiences. My expertise lies in both frontend and backend technologies, and I thrive on crafting innovative solutions. Currently contributing my skills to [Delhi By Cycle](https://www.delhibycycle.com/), where we're revolutionizing travel experiences through cycling adventures.</h3>
+<h3 align="centre">I'm a Frontend Developer with experience in building web applications using React, Next.js, and TypeScript. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and ShadCN.
+
+Currently, I'm looking for new opportunities to work on exciting projects and continue learning new technologies, including React Native and web3. Feel free to check out my projects here!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblackghostt&label=Profile%20views&color=0e75b6&style=flat" alt="mrblackghostt" /> </p>
 
