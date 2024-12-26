@@ -7,7 +7,7 @@ Currently, I'm looking for new opportunities to work on exciting projects and co
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrblackghostt" alt="mrblackghostt" /></a> </p>
 
-- 🔭 I’m Working on Disporty LTD
+- 🔭 I’m open to work
 
 - 🌱 I’m currently looking for a **Job**
 
