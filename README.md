@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Hemant Kumar</h1>
-<h3 align="centre">I'm a Frontend Developer with experience in building web applications using React, Next.js, and TypeScript. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and ShadCN.
+<h3 align="centre">I'm a FullStack Developer with experience in building web applications using React, Next.js, and TypeScript. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and ShadCN.
 
 Currently, I'm looking for new opportunities to work on exciting projects and continue learning new technologies, including React Native and web3. Feel free to check out my projects here!</h3>
 
