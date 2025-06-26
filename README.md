@@ -1,7 +1,13 @@
 <h1 align="center">Hi , I'm Hemant Kumar</h1>
-<h3 align="centre">I'm a FullStack Developer with experience in building web applications using React, Next.js, and TypeScript. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and ShadCN.
+<h3 align="centre">I'm a Fullstack Developer focused on building modern, responsive web apps using **React**, **Next.js**, **Tailwind CSS**, and **Node.js**.  
+Currently deepening my knowledge in **AWS**, and backend architecture.
 
-Currently, I'm looking for new opportunities to work on exciting projects and continue learning new technologies, including React Native and web3. Feel free to check out my projects here!</h3>
+- 🔭 Working on: A smart "Read Later" app for saving articles, tweets, and videos
+- 🌱 Learning: AWS, Django (Python), CI/CD pipelines
+- 🛠️ Tech I use: React, Next.js, Tailwind, Node.js, PostgreSQL
+- 📚 Currently diving into: Cloud computing and system design
+- 🎮 Fun fact: I skate in the morning and game in the evening (God of War fan 👾)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblackghostt&label=Profile%20views&color=0e75b6&style=flat" alt="mrblackghostt" /> </p>
 
