@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Hemant Kumar</h1>
+<h1 align="center">Hi , I'm **Hemant Kumar** aka **MrBlackGhost** 👋</h1>
 <h3 align="centre">I'm a Fullstack Developer focused on building modern, responsive web apps using **React**, **Next.js**, **Tailwind CSS**, and **Node.js**.  
 Currently deepening my knowledge in **AWS**, and backend architecture.
 
