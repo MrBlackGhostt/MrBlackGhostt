@@ -1,6 +1,6 @@
-- 🌱 Right now I'm deep dive focused on Generative AI, LangChain (Python, Go, TypeScript, React, Next.js, Docker).
+- 🌱 Right now I'm deep dive focused on Web3  (Rust,Solana, TypeScript, React, Next.js, Docker).
 - 🔭 I'm currently building and debugging fullstack backends using Node.js, Express, and Prisma.
-- 🥅 My goal is to become a **Generative AI Developer**.
+- 🥅 My goal is to become a **Web3 Developer**.
 - 👯 I’m looking to collaborate on projects using **LangChain** or modern backend technologies.
 - ⚡ Fun fact: I'm passionate about making n8n and building RAG!
 - 🤝 I am actively **open to work** and looking for opportunities.
