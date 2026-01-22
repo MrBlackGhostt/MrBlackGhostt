@@ -1,13 +1,11 @@
+- 🌱 Current focus: Solana Web3 development (Rust, Anchor, TypeScript, React, Next.js, Docker)
 
+- 🔭 Building: Bonding Curve Launchpad (AMM), DeFi protocols, smart contracts
 
-    🌱 Current focus: Solana Web3 development (Rust, Anchor, TypeScript, React, Next.js, Docker)
+- 🥅 Goal: Top 1% Solana Developer
 
-    🔭 Building: Bonding Curve Launchpad (AMM), DeFi protocols, smart contracts
+- 👯 Looking to collaborate: Solana/DeFi projects, blockchain infrastructure
 
-    🥅 Goal: Top 1% Solana Developer
+- ⚡ Highlight: Deep expertise in Anchor framework, PDAs, constant product AMMs
 
-    👯 Looking to collaborate: Solana/DeFi projects, blockchain infrastructure
-
-    ⚡ Highlight: Deep expertise in Anchor framework, PDAs, constant product AMMs
-
-    🤝 Open to work: Actively seeking Web3/Solana developer opportunities
+- 🤝 Open to work: Actively seeking Web3/Solana developer opportunities
